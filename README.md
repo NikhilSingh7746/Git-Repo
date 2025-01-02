@@ -1,3 +1,4 @@
 # Git-Repo
 This is a Git Repository
-Author - Nikhil Singh
+<br>
+<b>Author - Nikhil Singh<b>
